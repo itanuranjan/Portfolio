@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Anuranjan Kumar Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://anuranjan.netlify.app/",
   },
 };
 
@@ -26,7 +26,7 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/itanuranjan",
+  portfolio_repository: "https://anuranjan.netlify.app/",
   githubProfile: "https://github.com/itanuranjan",
 };
 
@@ -735,32 +735,31 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "Profile.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ReactJS, NodeJS, Android, Cloud and Opensource Development.",
   },
   blogSection: {
-    title: "Blogs",
+    title: "VentureVibe",
     subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+      "'VentureVibe' is a comprehensive travel and tour guide platform designed to offer immersive experiences for travelers seeking memorable journeys. VentureVibe provides tailored to meet the needs of modern explorers. ",
+    link: "https://venturevibe.netlify.app/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
-    locality: "Kanodar",
+    subtitle: "Bhallu, Banka, Bihar - 813107",
+    locality: "Patna",
     country: "IN",
-    region: "Gujarat",
-    postalCode: "385520",
-    streetAddress: "Ambavadi vas",
+    region: "Bihar",
+    postalCode: "813107",
+    streetAddress: "Banka",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://maps.app.goo.gl/yaSUUgcxLGZCMUtc9",
   },
   phoneSection: {
-    title: "",
-    subtitle: "",
+    title: "Contacts",
+    subtitle: "itanuranjan@gmail.com",
   },
 };
 
