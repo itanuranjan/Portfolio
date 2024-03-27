@@ -21,9 +21,9 @@ const seo = {
 const greeting = {
   title: "Anuranjan Kumar",
   logo_name: "Anuranjan",
-  nickname: "Anu",
+  // nickname: "Anu",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "As a determined MCA student with a strong commitment to achieving my goals, I am actively seeking to carve out a career path in the software engineering domain. Equipped with proficient skills in HTML, CSS, Javascript, ReactJS, and MongoDB, I bring a solid foundation to any project or team.",
   resumeLink:
     "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
   portfolio_repository: "https://anuranjan.netlify.app/",
@@ -31,15 +31,6 @@ const greeting = {
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
-
   {
     name: "Github",
     link: "https://github.com/itanuranjan",
@@ -66,7 +57,7 @@ const socialMediaLinks = [
   },
   {
     name: "X-Twitter",
-    link: "https://twitter.com/itanuranjan",
+    link: "https://twitter.com/iamanuranjan",
     fontAwesomeIcon: "fa-x-twitter", // Reference https://fontawesome.com/icons/x-twitter?f=brands&s=solid
     backgroundColor: "#000000", // Reference https://simpleicons.org/?q=x
   },
@@ -135,9 +126,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building responsive website front-end using HTML, CSS, Javascript, ReactJS and Bootstrap",
+        "⚡ Creating application backend in Node, Express & MongoDB",
+        "⚡ Developing mobile applications using React Native and solo android apps using Kotlin",
       ],
       softwareSkills: [
         {
@@ -154,13 +145,13 @@ const skills = {
             color: "#1572B6",
           },
         },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
+        // {
+        //   skillName: "Sass",
+        //   fontAwesomeClassname: "simple-icons:sass",
+        //   style: {
+        //     color: "#CC6699",
+        //   },
+        // },
         {
           skillName: "JavaScript",
           fontAwesomeClassname: "simple-icons:javascript",
@@ -176,13 +167,13 @@ const skills = {
             color: "#61DAFB",
           },
         },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
-          style: {
-            color: "#339933",
-          },
-        },
+        // {
+        //   skillName: "NodeJS",
+        //   fontAwesomeClassname: "simple-icons:node-dot-js",
+        //   style: {
+        //     color: "#339933",
+        //   },
+        // },
         {
           skillName: "NPM",
           fontAwesomeClassname: "simple-icons:npm",
@@ -204,13 +195,13 @@ const skills = {
             color: "#663399",
           },
         },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
+        // {
+        //   skillName: "Flutter",
+        //   fontAwesomeClassname: "simple-icons:flutter",
+        //   style: {
+        //     color: "#02569B",
+        //   },
+        // },
       ],
     },
     {
@@ -219,7 +210,7 @@ const skills = {
       skills: [
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
+        "⚡ Deploying a website on the cloud enables universal access from anywhere with an internet connection. ",
         "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
       ],
       softwareSkills: [
@@ -265,20 +256,20 @@ const skills = {
             color: "#47A248",
           },
         },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
-          },
-        },
+        // {
+        //   skillName: "Docker",
+        //   fontAwesomeClassname: "simple-icons:docker",
+        //   style: {
+        //     color: "#1488C6",
+        //   },
+        // },
+        // {
+        //   skillName: "Kubernetes",
+        //   fontAwesomeClassname: "simple-icons:kubernetes",
+        //   style: {
+        //     color: "#326CE5",
+        //   },
+        // },
       ],
     },
     {
@@ -304,13 +295,13 @@ const skills = {
             color: "#F24E1E",
           },
         },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
+        // {
+        //   skillName: "Adobe Illustrator",
+        //   fontAwesomeClassname: "simple-icons:adobeillustrator",
+        //   style: {
+        //     color: "#FF7C00",
+        //   },
+        // },
         {
           skillName: "Inkscape",
           fontAwesomeClassname: "simple-icons:inkscape",
@@ -381,29 +372,30 @@ const degrees = {
   degrees: [
     {
       title: "Chandigarh University",
-      subtitle: "Master's of Computer Application (MCA)",
-      logo_path: "iiitk_logo.png",
+      subtitle: "Master of Computer Applications (MCA)",
+      logo_path: "Chandigarh-University-CU-logo.png",
       alt_name: "CU",
       duration: "2022 - 2024",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ I have studied basic software engineering subjects like DS, DBMS, OS, CA, C++, JAVA etc.",
+        "⚡ Apart from this, I have done courses on FrontEnd Development, ReactJS, Cloud Computing and Full Stack Development.",
+        "⚡ I have been honored with the prestigious CUCET Scholarship, which awards a 20% reduction in tuition fees.",
+        // "⚡ I was selected for CUCET Scholarship which is given 20% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://www.cuchd.in/",
     },
     {
-      title: "University of Technilogy",
-      subtitle: "Bachelor's in Computer Application (BCA)",
-      logo_path: "iu_logo.png",
+      title: "University of Technology",
+      subtitle: "Bachelor of Computer Applications (BCA)",
+      logo_path: "University_of_Technology_logo_curved.svg",
       alt_name: "UOT",
       duration: "2019 - 2022",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ I have studied basic Software Developer subjects like HTML, CSS, JAVASCRIPT, C, C++, DBMS, OS etc.",
+        "⚡ Apart from this, I have also done Many Project Like College Website, Rental Car, GYM Website.",
+        "⚡ I have received Silver Medal award from respected director for consistently best performance in academics.",
       ],
-      website_link: "https://www.indiana.edu/",
+      website_link: "https://www.universityoftechnology.edu.in/",
     },
   ],
 };
@@ -429,66 +421,75 @@ const certifications = {
     //   color_code: "#00000099",
     // },
     {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "Data Science",
-      subtitle: "- Alex Aklson",
+      title: "Introduction to Cloud Computing",
+      subtitle: "- Rav Ahuja",
       logo_path: "ibm_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
+        "https://www.coursera.org/account/accomplishments/verify/LLVQ8JR78DEN",
       alt_name: "IBM",
       color_code: "#1F70C199",
     },
     {
-      title: "Big Data",
-      subtitle: "- Kim Akers",
-      logo_path: "microsoft_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-      alt_name: "Microsoft",
-      color_code: "#D83B0199",
-    },
-    {
-      title: "Advanced Data Science",
-      subtitle: "- Romeo Kienzler",
+      title: "Web Development with HTML, CSS, JavaScript",
+      subtitle: "- Upkar Lidder",
       logo_path: "ibm_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
+        "https://coursera.org/share/c51317e6d08eac95d52db27d71059320",
       alt_name: "IBM",
       color_code: "#1F70C199",
     },
     {
-      title: "Advanced ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
+      title: "Started with Git and GitHub",
+      subtitle: "- Upkar Lidder",
+      logo_path: "ibm_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
+        "https://coursera.org/share/d43946bbac7fcc050e3fa12fe7b759f1",
+      alt_name: "IBM",
+      color_code: "#1F70C199",
     },
     {
-      title: "DL on Tensorflow",
-      subtitle: "- Laurence Moroney",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "Fullstack Development",
+      title: "Front-End Development",
       subtitle: "- Jogesh Muppala",
       logo_path: "coursera_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
+        "https://coursera.org/share/3acc49e5d1adc6b7d144b84710bb09c4",
       alt_name: "Coursera",
+      color_code: "#2A73CC",
+    },
+    {
+      title: "Android Mobile Application Development",
+      subtitle: "- Jogesh Muppala",
+      logo_path: "coursera_logo.png",
+      certificate_link:
+        "https://coursera.org/share/431a93a1bb9a04db320d7a33067f30aa",
+      alt_name: "Coursera",
+      color_code: "#2A73CC",
+    },
+    {
+      title: "Version Control",
+      subtitle: "- Jogesh Muppala",
+      logo_path: "coursera_logo.png",
+      certificate_link:
+        "https://coursera.org/share/91fe124c909d0f3986124d1a06c09617",
+      alt_name: "Coursera",
+      color_code: "#2A73CC",
+    },
+    {
+      title: "Cloud Engineer Learning Path",
+      subtitle: "- GCCP Training",
+      logo_path: "google_logo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1M5W4DjOAl9KVoy5Kh8CU2lhRjsZr63Qq/view?usp=sharing",
+      alt_name: "Google",
+      color_code: "#0C9D5899",
+    },
+    {
+      title: "Foundations of User Experience (UX) Design",
+      subtitle: "- Amanda Brophy",
+      logo_path: "google_logo.png",
+      certificate_link:
+        "https://coursera.org/share/eb4e3469d24904d5f02722104a23fcde",
+      alt_name: "Google",
       color_code: "#2A73CC",
     },
     {
@@ -496,27 +497,45 @@ const certifications = {
       subtitle: "- Qwiklabs",
       logo_path: "gcp_logo.png",
       certificate_link:
-        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
+        "https://www.cloudskillsboost.google/public_profiles/98d84b73-44e5-459b-895e-36f11d1c8867",
       alt_name: "GCP",
       color_code: "#4285F499",
-    },
-    {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
-      logo_path: "nptel_logo.png",
-      certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-      alt_name: "NPTEL",
-      color_code: "#FFBB0099",
     },
     {
       title: "Cloud Architecture",
       subtitle: "- Qwiklabs",
       logo_path: "gcp_logo.png",
       certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
+        "https://www.cloudskillsboost.google/public_profiles/98d84b73-44e5-459b-895e-36f11d1c8867",
       alt_name: "GCP",
       color_code: "#4285F499",
+    },
+    {
+      title: "Google Cloud Fundamentals",
+      subtitle: "- Qwiklabs",
+      logo_path: "gcp_logo.png",
+      certificate_link:
+        "https://www.cloudskillsboost.google/public_profiles/98d84b73-44e5-459b-895e-36f11d1c8867",
+      alt_name: "GCP",
+      color_code: "#4285F499",
+    },
+    {
+      title: "New Year, New Skills: Green Challenge",
+      subtitle: "- Qwiklabs",
+      logo_path: "gcp_logo.png",
+      certificate_link:
+        "https://www.cloudskillsboost.google/public_profiles/98d84b73-44e5-459b-895e-36f11d1c8867",
+      alt_name: "GCP",
+      color_code: "#4285F499",
+    },
+    {
+      title: "Blockchain and its Application",
+      subtitle: "- NPTEL",
+      logo_path: "nptel_logo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1v5wHWyO7G4H3vqtVD4O4iiK1U0syoZCW/view?usp=sharing",
+      alt_name: "NPTEL",
+      color_code: "#FFBB0099",
     },
   ],
 };
@@ -675,7 +694,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create Full Stack projects and deploy them to web applications using cloud infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
 
