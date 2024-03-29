@@ -1,4 +1,4 @@
-nuranjan Kumar Portfolio
+Anuranjan Kumar Portfolio
 Welcome to the portfolio of Anuranjan Kumar. This portfolio showcases Anuranjan's skills, projects, and experience in the field of [insert field or industry here, e.g., software development, graphic design, etc.].
 
 About Anuranjan Kumar
