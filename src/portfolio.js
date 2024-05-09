@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "As a determined MCA student with a strong commitment to achieving my goals, I am actively seeking to carve out a career path in the software engineering domain. Equipped with proficient skills in HTML, CSS, Javascript, ReactJS, and MongoDB, I bring a solid foundation to any project or team.",
   resumeLink:
-    "https://drive.google.com/file/d/1nR02pHOYaPyBlgnLb1BEnE3zvXp6-HEL/view?usp=sharing",
+    "https://drive.google.com/file/d/1OBpm-bXqLTh_puU_WMeLvB_Yl6_xl8Am/view?usp=sharing",
   portfolio_repository: "https://anuranjan.netlify.app/",
   githubProfile: "https://github.com/itanuranjan",
 };
