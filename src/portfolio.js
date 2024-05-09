@@ -12,7 +12,7 @@ const seo = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
     title: "Anuranjan Kumar Portfolio",
-    type: "website",
+    type: "Personal Portfolio website",
     url: "https://anuranjan.netlify.app/",
   },
 };
@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "As a determined MCA student with a strong commitment to achieving my goals, I am actively seeking to carve out a career path in the software engineering domain. Equipped with proficient skills in HTML, CSS, Javascript, ReactJS, and MongoDB, I bring a solid foundation to any project or team.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
+    "https://drive.google.com/file/d/1nR02pHOYaPyBlgnLb1BEnE3zvXp6-HEL/view?usp=sharing",
   portfolio_repository: "https://anuranjan.netlify.app/",
   githubProfile: "https://github.com/itanuranjan",
 };
@@ -555,12 +555,12 @@ const experience = {
         {
           title: "Web Development Trainee",
           company: "Metacrafters",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
+          company_url: "https://www.metacrafters.io/",
+          logo_path: "metacrafters.png",
           duration: "June 2023 - Aug 2023",
           location: "Remote",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "Deployed and Verified the Solidity Contracts on the Ethereum blockchain (EtherScan Testnet) Integrate contracts with ReactJS Frontend for seamless user interaction. Recognized for performance and awarded certificate for performance.",
           color: "#0879bf",
         },
         // {
@@ -593,23 +593,23 @@ const experience = {
         {
           title: "Web Development Intern",
           company: "Coders Cave",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
+          company_url: "https://www.coderscave.in/",
+          logo_path: "coders cave.png",
           duration: "May 2022 - Aug 2022",
           location: "Remove",
           description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
+            "Created a landing page and portfolio using HTML, CSS, JavaScript and React. Deployed the landing page and portfolio on Netlify.",
           color: "#000000",
         },
         {
           title: "Web Development Intern",
           company: "Bharat Intern",
-          company_url: "https://www.delhivery.com/",
-          logo_path: "delhivery_logo.png",
+          company_url: "https://bharatintern.live/",
+          logo_path: "bharat_intern.jpeg",
           duration: "May 2019 - Sept 2019",
           location: "Remote",
           description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+            "Created a landing page and portfolio using HTML, CSS, JavaScript and React. Deployed the landing page and portfolio on Netlify.",
           color: "#ee3c26",
         },
       ],
@@ -620,7 +620,7 @@ const experience = {
         {
           title: "Google Developer Student Club Member",
           company: "Google",
-          company_url: "https://about.google/",
+          company_url: "https://www.linkedin.com/in/dsccu/",
           logo_path: "google_logo.png",
           duration: "June 2019 - April 2020",
           location: "Hyderabad, Telangana",
@@ -632,7 +632,7 @@ const experience = {
           title: "Developer Students Club Member",
           company: "Chandigarh University",
           company_url:
-            "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
+            "https://gdsc.community.dev/chandigarh-university-chandigarh-india/",
           logo_path: "dsc_logo.png",
           duration: "Jan 2018 - May 2020",
           location: "Kurnool, Andhra Pradesh",
@@ -654,8 +654,8 @@ const experience = {
         {
           title: "Campus E-Cell Ambassador",
           company: "Coincent",
-          company_url: "https://github.com/",
-          logo_path: "github_logo.png",
+          company_url: "https://coincent.ai/",
+          logo_path: "coincent.jpeg",
           duration: "July 2019 - PRESENT",
           location: "Work From Home",
           description:
